@@ -14,3 +14,7 @@ public class BTT2 {
         System.out.println("Dương Văn Quy ");
     }
 }
+ public void jahs()
+ {
+    //nhap....
+ }
